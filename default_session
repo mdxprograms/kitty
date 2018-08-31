@@ -1,4 +1,3 @@
-layout tall
 cd ~/repos/projects
 
 launch nvim
