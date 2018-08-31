@@ -1,5 +1,4 @@
 cd ~/repos/projects
 
-launch nvim
-launch zsh
 launch nnn -c 6
+launch zsh
